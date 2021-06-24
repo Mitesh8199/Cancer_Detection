@@ -1,4 +1,4 @@
-# Breast_Cancer_Detection
+# Cancer_Detection
 
 This project Classifies between whether a patient has a cancer or not.
 Data Details:
